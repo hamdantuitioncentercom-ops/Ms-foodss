@@ -1,0 +1,16 @@
+{
+  "short_name": "MS Foods",
+  "name": "MS Foods Calicut Heritage",
+  "icons": [
+    {
+      "src": "https://uploads.onecompiler.io/44jfq6en8/44jfp9jw3/Screenshot%202026-04-25%20114426.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ea580c",
+  "display": "standalone",
+  "orientation": "portrait"
+}
